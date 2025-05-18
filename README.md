@@ -11,7 +11,7 @@ A simple and responsive Currency Converter web application built using HTML, CSS
 🌐 Technologies Used
 • HTML5 – Structure of the web app
 • CSS3 – Styling and responsive design
-• JavaScript (Vanilla) – Logic and API integration
+• JavaScript – Logic and API integration
 • Exchange Rate API – For fetching real-time rates
 
 🚀 How to Use
